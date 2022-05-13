@@ -1,4 +1,4 @@
-###### **Movie Recommendation System**
+##### **Movie Recommendation System**
 
 A simple movie recommendation system that used a content-based filtering method and cosine similarity algorithm. The dataset used in this project is tmdb movie dataset (The Movie Database) from Kaggle.com
 
